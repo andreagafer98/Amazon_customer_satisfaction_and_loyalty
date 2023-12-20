@@ -1,4 +1,4 @@
-# Amazon_customer_satisfaction_and_loyalty
+# Amazon Customer Satisfaction and Loyalty: an ECSI Approach
 
   Technological advancements over the last few years have transformed the way people buy and sell goods. Increased access to internet connection and affordable devices have lowered the barriers to online shopping and allowed customers to profit from online transactions. As a consequence, e-commerce has become a crucial component of the retail industry.
 
