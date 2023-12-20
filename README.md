@@ -10,13 +10,20 @@
 
 Key findings:
 
-- Both perceived value and customer satisfaction have a positive and statitically significant impact on loyalty.
--  Prime Members are 14 % more likely to recommend Amazon to friends and family
-- 98% of participants are very satisfied or satisfied with their overall shopping experience
-
-
-
-
-
-
+- Transformational Shopping Experience: the qualitative analysis uncovered Amazon’s ability to transform the shopping experience, emphasizing trust, reliability, and convenience.
   
+- Both perceived value and customer satisfaction have a positive and statitically significant impact on loyalty.
+
+- Factors Driving Loyalty: 
+
+    - Prime Membership Impact: prime members are 14 % more likely to recommend Amazon to friends and family.
+    - Overall satisfaction: an impressive 98% of participants expressed being very satisfied or satisfied with their overall shopping experience.
+
+- Loyalty indicators: 
+
+    - Repurchase intension: 97 % of participants are very likely or likely to repurchase in the future.
+    - Price sensitivity: 39 % of participants are not willing to pay higher prices for Amazon, indicating the significance not competitive pricing
+
+- Shifting focus: 
+
+    - Cost-effective retention: the study suggest prioritizing customer retention over acquisition may be more cost effective, with Prime members demonstrating higher loyalty and better overall shopping experience. 
