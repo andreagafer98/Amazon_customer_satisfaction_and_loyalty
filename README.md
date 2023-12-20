@@ -8,7 +8,7 @@
 
   Existing research has found that one of the key factors for every company wishing to increase customer loyalty is customer satisfaction. Customer satisfaction is a measurement that determines the overall customer experience with a company’s products or services. Building upon this insight, the research question of this study is raised: does customer satisfaction contribute to increased loyalty among Amazon customers? Thus, by studying the relationship between customer satisfaction and loyalty, the researcher will gain a deeper understanding of how one variable influences the other one.
 
-Key findings:
+After analyzing the data from the qualitative and quantitaive reseach, here are some key findings:
 
 - Transformational Shopping Experience: the qualitative analysis uncovered Amazon’s ability to transform the shopping experience, emphasizing trust, reliability, and convenience.
   
